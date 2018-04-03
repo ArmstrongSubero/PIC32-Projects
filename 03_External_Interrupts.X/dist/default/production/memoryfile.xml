@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/03_External_Interrupts.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>263312</length>                 
+      <used>2624</used>                     
+      <free>260688</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>0</used>                     
+      <free>65536</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
