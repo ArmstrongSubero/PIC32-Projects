@@ -10,7 +10,7 @@
  *                      module. The UART drivers are taken from MCC provided 
  *                      by Microchip and printf is remmapped to UART1
  * 
- * Hardware Description: An CP2015 USB-UART converter is connected to PINC5
+ * Hardware Description: An CP2104 USB-UART converter is connected to PINC5
  * 
  * Change History:
  *
