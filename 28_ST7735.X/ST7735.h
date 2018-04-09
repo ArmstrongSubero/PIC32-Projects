@@ -1,3 +1,21 @@
+/*
+ * File:   ST7735.h
+ * Author: Armstrong Subero
+ * Processor: PIC32MX270F256D @ 48MHz, 3.3v
+ * Program: Header file for MX270F256D delay routines
+ * Compiler: XC32 (v1.44, MPLAX X v4.00)
+ * Program Version 1.1
+ * Program Description: This header file contains function prototypes to use
+ *                      ST7735 module
+ * 
+ * Change History:
+ *
+ * Author             Rev     Date          Description
+ * Armstrong Subero   1.0     09/04/2015    Initial Release.
+ * 
+ * Updated on April 9th, 2018, 5:22 PM
+ */
+
 #define swap(a, b) { int t = a; a = b; b = t; }
 
 #define SCREEN_WIDTH 128
