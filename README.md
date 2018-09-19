@@ -1,7 +1,7 @@
 # PIC32-Projects
 Projects with 32-bit MIPS based PIC Microcontroller (PIC32MX270F256D). 
 Here I have listed all the projects I have done with the PIC32MX1/2xx series of microcontrollers from Microchip Technology. 
-Each project/library is tested with the XC32 compiler without any frameworks or HAL and only one project is dependent on the legacy PLIB library
+Each project/library is tested with the XC32 compiler without any frameworks or HAL and only one project is dependent on the legacy PLIB library.
 These projects will be easily ported to your application.
 
 If you need to adapt to your own project simply copy the project files into your project. 
