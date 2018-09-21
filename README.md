@@ -23,6 +23,7 @@ If you need to adapt to your own project simply copy the project files into your
  13. 12_Comparator -          use onboard comparator
  14. 13_Idle Sleep -          use sleep mode
  15. 14_WDT -                 use watchdog timer
+ 17. 16_DMA -                 use the Direct Memory Access Controller  
  18. 17_SD_Card_FatFS -       use SD card with FatFS module (plib version)
  22. 21_RTCC -                use the onboard RTCC module
  25. 24_SSD1306 -             use the SSD1306 OLED
