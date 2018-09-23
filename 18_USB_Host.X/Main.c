@@ -76,8 +76,7 @@ int main(void)
                 // exist.  If the file does exist it will delete the old file
                 // and create a new one.
                 myFile = FSfopen("text.txt","w");
-                PORTBbits.RB0 = 1;
-
+                
                 // Write some data to the new file.
                 FSfwrite("Some Text",1,11,myFile);
                 
